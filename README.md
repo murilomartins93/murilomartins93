@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murilomartins93" alt="murilomartins93" /></a> </p>
 
-- 🌱 I’m currently learning **learning HTML, CSS and Java at DevSuperior and Santander Bootcamp**
+- 🌱 I’m currently learning **learning HTML, CSS and Java at DevSuperior**
 
 - 📫 How to reach me **murilomartins@outlook.com**
 
