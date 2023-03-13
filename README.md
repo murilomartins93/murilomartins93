@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Murilo Martins</h1>
 <h3 align="center">I'm a Lawyer with Masters in labour law currently studying to change career</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murilomartins93" alt="murilomartins93" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murilomartins93" alt="murilomartins93" /></a> </p>
 
-- 🌱 I’m currently learning **learning HTML, CSS and Java at DevSuperior**
+- 🌱 I’m currently learning **learning React at DevSuperior**
 
 - 📫 How to reach me **murilomartins@outlook.com**
 
